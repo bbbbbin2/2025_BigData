@@ -104,24 +104,22 @@
 <img width="1166" height="466" alt="image" src="https://github.com/user-attachments/assets/3dc2a883-abb7-4a59-804a-b89d93acae4f" />
 
 * 기상 상태별 사고 비중 및 치명도
-<img width="966" height="566" alt="image" src="https://github.com/user-attachments/assets/f1bcfd9f-06be-44bf-a9be-156169a2a814" />
-<img width="766" height="466" alt="image" src="https://github.com/user-attachments/assets/93309f2e-fa28-4b9b-9f4b-17123d199262" />
-<img width="1366" height="566" alt="image" src="https://github.com/user-attachments/assets/774850b6-6d42-40ba-9aa1-fbd6bea52388" />
+<img width="1336" height="419" alt="image" src="https://github.com/user-attachments/assets/e5a4eebe-5c0c-40fa-bc42-8c81aad642a1" />
+
 
 * 연령대 사고 집중도
   <img width="966" height="766" alt="image" src="https://github.com/user-attachments/assets/53bb2aca-1c5e-4d0e-ba66-a51fd970c225" />
   <img width="966" height="566" alt="image" src="https://github.com/user-attachments/assets/fbb900b9-ed48-45b4-a045-4fc953746f43" />
 
-* 65세 이상 운전자 연도별 교통사고 증가율 
-
-  <img width="966" height="466" alt="image" src="https://github.com/user-attachments/assets/d90a342b-7442-4970-9820-8beb674ce060" />
+* 연령대별 치사율 및 65세 이상 운전자 연도별 교통사고 증가율 
+<img width="1517" height="456" alt="image" src="https://github.com/user-attachments/assets/df90f077-88b4-4ecf-b4b7-ce9d74f1651f" />
 
 ·지역별 사고 집중도
   <img width="966" height="765" alt="image" src="https://github.com/user-attachments/assets/d9b8f59a-bebd-455c-bece-6780ac67efc6" />
 
 * 사고 유형별 / 위반 유형별 통계
-* <img width="966" height="766" alt="image" src="https://github.com/user-attachments/assets/bfa66e64-1b80-477a-8b9e-b23a106a0289" />
-<img width="966" height="766" alt="image" src="https://github.com/user-attachments/assets/81498eb7-d528-450d-ac5b-27695ef0a62d" />
+<img width="1498" height="585" alt="image" src="https://github.com/user-attachments/assets/8dbf016f-557a-4b74-a0f6-d4f33cfcac13" />
+
 
 * 음주운전 사고 시간대·연령대 분석
 <img width="995" height="814" alt="image" src="https://github.com/user-attachments/assets/f352073c-0fe7-4461-a7a7-819b792e1488" />
@@ -133,13 +131,8 @@
 
 
 * 화물차 사고 다발 지역 지도 시각화
-<img width="1266" height="766" alt="image" src="https://github.com/user-attachments/assets/fa084a6e-e49d-4e91-8d03-0bb907cf927a" />
-<img width="966" height="766" alt="image" src="https://github.com/user-attachments/assets/6f597ce5-109b-42ea-9805-6954fb71359d" />
- Make this Notebook Trusted to load map: File -> Trust Notebook
-<img width="1184" height="1178" alt="image" src="https://github.com/user-attachments/assets/9801b3b5-80df-48fc-9e85-21494a3c547e" />
-<img width="1641" height="1232" alt="image" src="https://github.com/user-attachments/assets/1fe4063a-149f-403e-9100-a522c5b0a392" />
-* 확대시 정확한 위치 및 건수 확인 가능
-<img width="888" height="604" alt="image" src="https://github.com/user-attachments/assets/469bdf71-fe94-4736-906a-556718a35401" />
+<img width="992" height="623" alt="image" src="https://github.com/user-attachments/assets/ad1903e2-1908-43e5-8e12-9b55de7786a3" />
+
 
 
 
@@ -148,7 +141,7 @@
 ## 📊 주요 분석 결과
 
 ### 🔹 1) 연령대별 사고 특징
-
+<img width="1517" height="456" alt="image" src="https://github.com/user-attachments/assets/df90f077-88b4-4ecf-b4b7-ce9d74f1651f" />
 * **65세 이상**에서 사고 비중이 높음
 * 고령 운전자(65세 이상)는 **최근 5년간 사고 증가율이 지속 상승**
 
@@ -162,6 +155,7 @@
 ---
 
 ### 🔹 3) 기상 상태 영향
+<img width="849" height="636" alt="image" src="https://github.com/user-attachments/assets/6a9fd1f6-610e-4f13-a3c9-feb2ad7ed09f" />
 
 * 사고 발생 비중: **비·흐림 날씨**에서 사고 다수 발생
 * 사고 치명도: **눈길 사고**는 발생 빈도는 낮지만 치명도 최고
