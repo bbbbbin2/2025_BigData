@@ -215,6 +215,7 @@
 
 ### 🔹 1) 연령대별 사고 특징
 <img width="1517" height="456" alt="image" src="https://github.com/user-attachments/assets/df90f077-88b4-4ecf-b4b7-ce9d74f1651f" />
+
 * **65세 이상**에서 사고 비중이 높음
 * 고령 운전자(65세 이상)는 **최근 5년간 사고 증가율이 지속 상승**
 
