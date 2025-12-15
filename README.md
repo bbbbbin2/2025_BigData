@@ -230,6 +230,7 @@
 ---
 
 ### 🔹 3) 기상 상태 영향
+<img width="1366" height="566" alt="image" src="https://github.com/user-attachments/assets/a6b38911-7e52-4cfc-8990-efd851e11605" />
 <img width="1361" height="417" alt="image" src="https://github.com/user-attachments/assets/4c5eb05b-85b3-4a87-af67-46b264a18db4" />
 
 * 사고 발생 비중: **비·흐림 날씨**에서 사고 다수 발생
