@@ -81,7 +81,7 @@
 - **데이터 출처**
     - 한국도로교통공단 교통사고 통계
 - **주요 데이터**
-    - 연도별 음주운전 사고 건수
+    - 연도별 사고 건수 
     - 월별 사고 건수 및 치명도
     - 지역별 사고 건수
     - 연령대별 사고·사망자 수
@@ -172,7 +172,7 @@
 <img width="1490" height="534" alt="image" src="https://github.com/user-attachments/assets/fd0542c5-7b49-47a6-b9e0-b62f8eb5eacd" />
 <img width="1328" height="537" alt="image" src="https://github.com/user-attachments/assets/82464e80-f113-4681-93e2-a3d0ad76fc60" />
 
-<img width="1276" height="765" alt="image" src="https://github.com/user-attachments/assets/5679be1a-b762-47ee-9ff0-678bbd5fe3c6" 
+<img width="1276" height="765" alt="image" src="https://github.com/user-attachments/assets/5679be1a-b762-47ee-9ff0-678bbd5fe3c6" />
 
 ### 📈 분석 결과 요약
 
