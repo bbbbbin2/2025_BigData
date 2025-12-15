@@ -109,28 +109,23 @@
 
 ### 2️⃣ 주요 시각화 항목
 
-## 📊  ① 분석 - 연도별 음주운전 사고 및 원인 통계
+## 📊  ① 분석 - 연도별 교통사고 추이
 
 ### 🔍 분석 질문
 
-> 음주운전 사고는 장기적으로 증가하고 있을까, 감소하고 있을까
+> 교통사고는 장기적으로 증가하고 있을까, 감소하고 있을까
 > 
 <img width="1565" height="547" alt="image" src="https://github.com/user-attachments/assets/414980d5-5d97-4856-9787-1b622c382edd" />
-<img width="1490" height="534" alt="image" src="https://github.com/user-attachments/assets/fd0542c5-7b49-47a6-b9e0-b62f8eb5eacd" />
-<img width="1328" height="537" alt="image" src="https://github.com/user-attachments/assets/82464e80-f113-4681-93e2-a3d0ad76fc60" />
-
-<img width="1276" height="765" alt="image" src="https://github.com/user-attachments/assets/5679be1a-b762-47ee-9ff0-678bbd5fe3c6" />
+/>
 
 
 ### 📈 분석 결과 요약
 
-- 최근 10년간 **음주운전 사고 사망자 수는 지속적인 감소 추세**
+- 최근 10년간 **교통사고 사망자 수는 지속적인 감소 추세**
 - 2024년에는 **2,521명으로 최저 수준 기록**
 - 부상자 수 역시 감소했으나, **감소 폭은 상대적으로 완만**
 
-👉 음주운전 단속·제도 강화의 효과는
-
-**사망 감소로는 명확히 나타나고 있음**
+👉  **사망 감소는 명확히 나타나고 있음**
 
 ---
 
