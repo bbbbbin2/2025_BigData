@@ -231,7 +231,7 @@
 
 ### 🔹 3) 기상 상태 영향
 <img width="849" height="636" alt="image" src="https://github.com/user-attachments/assets/6a9fd1f6-610e-4f13-a3c9-feb2ad7ed09f" />
-<img width="766" height="466" alt="image" src="https://github.com/user-attachments/assets/fcb23f05-cd7e-489f-adb4-71bff929e750" />
+<img width="1361" height="417" alt="image" src="https://github.com/user-attachments/assets/4c5eb05b-85b3-4a87-af67-46b264a18db4" />
 
 * 사고 발생 비중: **비·흐림 날씨**에서 사고 다수 발생
 * 사고 치명도: **눈길 사고**는 발생 빈도는 낮지만 치명도 최고
