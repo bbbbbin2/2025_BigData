@@ -116,7 +116,6 @@
 > 교통사고는 장기적으로 증가하고 있을까, 감소하고 있을까
 > 
 <img width="1565" height="547" alt="image" src="https://github.com/user-attachments/assets/414980d5-5d97-4856-9787-1b622c382edd" />
-/>
 
 
 ### 📈 분석 결과 요약
@@ -137,7 +136,6 @@
 > 
 <img width="1266" height="466" alt="image" src="https://github.com/user-attachments/assets/0a10b36f-116a-4ef5-8170-0014c685ebde" />
 <img width="1166" height="466" alt="image" src="https://github.com/user-attachments/assets/3dc2a883-abb7-4a59-804a-b89d93acae4f" />
-/>
 
 ### 📈 분석 결과 요약
 
