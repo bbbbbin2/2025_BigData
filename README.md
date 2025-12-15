@@ -172,6 +172,7 @@
 ## 🔮 예측 모델 설계
 
 ### 📈 예측 모델 ① — Prophet 기반 시계열 예측
+<img width="1365" height="566" alt="image" src="https://github.com/user-attachments/assets/5a35dfca-28ab-43d5-a524-c2c9a6b3528b" />
 
 * **Input**: 연도별 사고 건수
 * **Output**: 향후 5년 사고 발생량
@@ -183,6 +184,7 @@
 ---
 
 ### 📈 예측 모델 ② — LSTM 기반 장기 예측
+![Uploading image.png…]()
 
 * 비선형 구조 학습
 * 정책·고령화·교통 환경 변화 반영 가능
