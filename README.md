@@ -209,7 +209,7 @@
 
 ### 🔍 분석 질문
 
-> 어떤 자역에서 화물차 사고가 주로 일어나는가?**
+> 어떤 지역에서 화물차 사고가 주로 일어나는가?
 <img width="1609" height="587" alt="image" src="https://github.com/user-attachments/assets/e7880419-8cf2-4f4e-b908-7c1dcc18ae1f" />
 <img width="992" height="623" alt="image" src="https://github.com/user-attachments/assets/ad1903e2-1908-43e5-8e12-9b55de7786a3" />
 
