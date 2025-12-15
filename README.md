@@ -92,40 +92,39 @@
 
 ### 2️⃣ 주요 시각화 항목
 
-#### 최근 10년 교통사고 사망자·부상자 추이
+## 최근 10년 교통사고 사망자·부상자 추이
 <img width="1565" height="547" alt="image" src="https://github.com/user-attachments/assets/414980d5-5d97-4856-9787-1b622c382edd" />
 
-#### 최근 5년 월별 평균 사고 건수
+## 최근 5년 월별 평균 사고 건수
 <img width="1266" height="466" alt="image" src="https://github.com/user-attachments/assets/0a10b36f-116a-4ef5-8170-0014c685ebde" />
 
-#### 월별 교통사고 치명도 Top 3
+## 월별 교통사고 치명도 Top 3
 <img width="1166" height="466" alt="image" src="https://github.com/user-attachments/assets/3dc2a883-abb7-4a59-804a-b89d93acae4f" />
 
-# 기상 상태별 사고 비중 및 치명도
+## 기상 상태별 사고 비중 및 치명도
 <img width="1336" height="419" alt="image" src="https://github.com/user-attachments/assets/e5a4eebe-5c0c-40fa-bc42-8c81aad642a1" />
 
 
-# 연령대 사고 집중도
+## 연령대 사고 집중도
   <img width="966" height="766" alt="image" src="https://github.com/user-attachments/assets/53bb2aca-1c5e-4d0e-ba66-a51fd970c225" />
 
-# 연령대별 치사율 및 65세 이상 운전자 연도별 교통사고 증가율 
+## 연령대별 치사율 및 65세 이상 운전자 연도별 교통사고 증가율 
 <img width="1517" height="456" alt="image" src="https://github.com/user-attachments/assets/df90f077-88b4-4ecf-b4b7-ce9d74f1651f" />
 
-# 지역별 사고 집중도
+## 지역별 사고 집중도
   <img width="966" height="765" alt="image" src="https://github.com/user-attachments/assets/d9b8f59a-bebd-455c-bece-6780ac67efc6" />
 
-# 사고 유형별 / 위반 유형별 통계
+## 사고 유형별 / 위반 유형별 통계
 <img width="1498" height="585" alt="image" src="https://github.com/user-attachments/assets/8dbf016f-557a-4b74-a0f6-d4f33cfcac13" />
 
 
-# 음주운전 사고 시간대·연령대 분석
+## 음주운전 사고 시간대·연령대 분석
 <img width="1490" height="534" alt="image" src="https://github.com/user-attachments/assets/fd0542c5-7b49-47a6-b9e0-b62f8eb5eacd" />
 <img width="1328" height="537" alt="image" src="https://github.com/user-attachments/assets/82464e80-f113-4681-93e2-a3d0ad76fc60" />
 
 
 
-
-* 화물차 사고 다발 지역 지도 시각화
+## 화물차 사고 다발 지역 지도 시각화
 <img width="992" height="623" alt="image" src="https://github.com/user-attachments/assets/ad1903e2-1908-43e5-8e12-9b55de7786a3" />
 
 
