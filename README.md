@@ -92,41 +92,36 @@
 
 ### 2️⃣ 주요 시각화 항목
 
-* 최근 10년 교통사고 사망자·부상자 추이
+#### 최근 10년 교통사고 사망자·부상자 추이
 <img width="1565" height="547" alt="image" src="https://github.com/user-attachments/assets/414980d5-5d97-4856-9787-1b622c382edd" />
 
-* 최근 5년 월별 평균 사고 건수
-<img width="1266" height="466" alt="image" src="https://github.com/user-attachments/assets/1c61d14c-325b-4506-98b0-4b63981b55d9" />
+#### 최근 5년 월별 평균 사고 건수
 <img width="1266" height="466" alt="image" src="https://github.com/user-attachments/assets/0a10b36f-116a-4ef5-8170-0014c685ebde" />
 
-* 월별 교통사고 치명도 Top 3
-<img width="1166" height="466" alt="image" src="https://github.com/user-attachments/assets/4ddc0c93-99d1-4c39-aec0-1e4d54d67027" />
+#### 월별 교통사고 치명도 Top 3
 <img width="1166" height="466" alt="image" src="https://github.com/user-attachments/assets/3dc2a883-abb7-4a59-804a-b89d93acae4f" />
 
-* 기상 상태별 사고 비중 및 치명도
+# 기상 상태별 사고 비중 및 치명도
 <img width="1336" height="419" alt="image" src="https://github.com/user-attachments/assets/e5a4eebe-5c0c-40fa-bc42-8c81aad642a1" />
 
 
-* 연령대 사고 집중도
+# 연령대 사고 집중도
   <img width="966" height="766" alt="image" src="https://github.com/user-attachments/assets/53bb2aca-1c5e-4d0e-ba66-a51fd970c225" />
-  <img width="966" height="566" alt="image" src="https://github.com/user-attachments/assets/fbb900b9-ed48-45b4-a045-4fc953746f43" />
 
-* 연령대별 치사율 및 65세 이상 운전자 연도별 교통사고 증가율 
+# 연령대별 치사율 및 65세 이상 운전자 연도별 교통사고 증가율 
 <img width="1517" height="456" alt="image" src="https://github.com/user-attachments/assets/df90f077-88b4-4ecf-b4b7-ce9d74f1651f" />
 
-·지역별 사고 집중도
+# 지역별 사고 집중도
   <img width="966" height="765" alt="image" src="https://github.com/user-attachments/assets/d9b8f59a-bebd-455c-bece-6780ac67efc6" />
 
-* 사고 유형별 / 위반 유형별 통계
+# 사고 유형별 / 위반 유형별 통계
 <img width="1498" height="585" alt="image" src="https://github.com/user-attachments/assets/8dbf016f-557a-4b74-a0f6-d4f33cfcac13" />
 
 
-* 음주운전 사고 시간대·연령대 분석
-<img width="995" height="814" alt="image" src="https://github.com/user-attachments/assets/f352073c-0fe7-4461-a7a7-819b792e1488" />
-<img width="908" height="583" alt="image" src="https://github.com/user-attachments/assets/bbf48986-dc76-45b2-98a3-ea9873e2ae13" />
-<img width="965" height="566" alt="image" src="https://github.com/user-attachments/assets/825031d2-ba56-45c2-bc24-ebadb71288e0" />
-<img width="965" height="765" alt="image" src="https://github.com/user-attachments/assets/2bdd07ce-f10d-48f7-b0d0-b1c75abaab8f" />
-<img width="1276" height="765" alt="image" src="https://github.com/user-attachments/assets/6fa37c07-7710-4747-982f-61b4d82bc66d" />
+# 음주운전 사고 시간대·연령대 분석
+<img width="1490" height="534" alt="image" src="https://github.com/user-attachments/assets/fd0542c5-7b49-47a6-b9e0-b62f8eb5eacd" />
+<img width="1328" height="537" alt="image" src="https://github.com/user-attachments/assets/82464e80-f113-4681-93e2-a3d0ad76fc60" />
+
 
 
 
@@ -148,6 +143,7 @@
 ---
 
 ### 🔹 2) 위반 유형별 영향
+<img width="966" height="766" alt="image" src="https://github.com/user-attachments/assets/ac7c164b-644f-4f33-b02a-42b4536df497" />
 
 * 모든 연령대에서 **안전운전의무 불이행**이 가장 큰 사고 원인
 * 20~40대는 **신호위반·중앙선 침범** 등 복합 위반 비중이 큼
@@ -163,6 +159,7 @@
 ---
 
 ### 🔹 4) 지역별 사고 집중
+<img width="966" height="765" alt="image" src="https://github.com/user-attachments/assets/c98995e5-39cd-476a-b1a7-40d3753ac835" />
 
 * 최근 5년간 사고의 **절반 이상이 수도권(경기·서울)** 집중
 * 교통량·도시 구조와 밀접한 상관관계 확인
@@ -184,7 +181,7 @@
 ---
 
 ### 📈 예측 모델 ② — LSTM 기반 장기 예측
-![Uploading image.png…]()
+<img width="1166" height="465" alt="image" src="https://github.com/user-attachments/assets/1e417316-e55e-4d62-a3a7-54466e1dd81c" />
 
 * 비선형 구조 학습
 * 정책·고령화·교통 환경 변화 반영 가능
