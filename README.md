@@ -116,6 +116,8 @@
 > 음주운전 사고는 장기적으로 증가하고 있을까, 감소하고 있을까?
 > 
 <img width="1565" height="547" alt="image" src="https://github.com/user-attachments/assets/414980d5-5d97-4856-9787-1b622c382edd" />
+<img width="1490" height="534" alt="image" src="https://github.com/user-attachments/assets/fd0542c5-7b49-47a6-b9e0-b62f8eb5eacd" />
+<img width="1328" height="537" alt="image" src="https://github.com/user-attachments/assets/82464e80-f113-4681-93e2-a3d0ad76fc60" />
 
 ### 📈 분석 결과 요약
 
@@ -163,24 +165,48 @@
 👉 눈·비 등 **악천후는 발생 빈도보다 ‘사고 시 위험도’를 크게 증가**
 ## 기상 상태별 사고 비중 및 치명도
 
+---
+## 📊 ④ 분석 🧍 연령대별·사고 원인별 특성 분석
 
+### 🔍 분석 질문
 
-## 연령대 사고 집중도
-  <img width="966" height="766" alt="image" src="https://github.com/user-attachments/assets/53bb2aca-1c5e-4d0e-ba66-a51fd970c225" />
-
-## 연령대별 치사율 및 65세 이상 운전자 연도별 교통사고 증가율 
+> 어떤 연령대에서, 어떤 사고 원인이 두드러지는가?
+>  <img width="966" height="766" alt="image" src="https://github.com/user-attachments/assets/53bb2aca-1c5e-4d0e-ba66-a51fd970c225" />
 <img width="1517" height="456" alt="image" src="https://github.com/user-attachments/assets/df90f077-88b4-4ecf-b4b7-ce9d74f1651f" />
 
-## 지역별 사고 집중도
-  <img width="966" height="765" alt="image" src="https://github.com/user-attachments/assets/d9b8f59a-bebd-455c-bece-6780ac67efc6" />
+### 📈 분석 결과 요약
+
+- 전 연령대에서 **‘안전운전 의무 불이행’이 최다 사고 원인**
+- 특히 **30~50대 연령층에서 사고 집중**
+- 20~40대는 신호위반·중앙선 침범 등 **복합 위반 비중 높음**
+
+👉 단순 음주 단속 외에도
+
+**연령대별 운전 행태 개선 정책 필요**
+
+---
+## 📊 분석 ⑤
+
+## 🗺 지역별·연령대별 사고 분포
+
+### 🔍 분석 질문
+
+> 사고는 특정 지역에 집중되어 있는가?
+img width="966" height="765" alt="image" src="https://github.com/user-attachments/assets/d9b8f59a-bebd-455c-bece-6780ac67efc6" />
+
+### 📈 분석 결과 요약
+
+- 최근 5년 기준,
+    - **경기(32.0%) · 서울(20.6%)** → 수도권 집중
+
+**맞춤형 관리 전략 필요성 확인**
+
+---
 
 ## 사고 유형별 / 위반 유형별 통계
 <img width="1498" height="585" alt="image" src="https://github.com/user-attachments/assets/8dbf016f-557a-4b74-a0f6-d4f33cfcac13" />
 
 
-## 음주운전 사고 시간대·연령대 분석
-<img width="1490" height="534" alt="image" src="https://github.com/user-attachments/assets/fd0542c5-7b49-47a6-b9e0-b62f8eb5eacd" />
-<img width="1328" height="537" alt="image" src="https://github.com/user-attachments/assets/82464e80-f113-4681-93e2-a3d0ad76fc60" />
 
 
 
