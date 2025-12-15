@@ -109,15 +109,18 @@
 
 ### 2️⃣ 주요 시각화 항목
 
-## 📊  ① 분석 📉 연도별 음주운전 사고 발생 추이
+## 📊  ① 분석 - 연도별 음주운전 사고 및 원인 통계
 
 ### 🔍 분석 질문
 
-> 음주운전 사고는 장기적으로 증가하고 있을까, 감소하고 있을까?
+> 음주운전 사고는 장기적으로 증가하고 있을까, 감소하고 있을까
 > 
 <img width="1565" height="547" alt="image" src="https://github.com/user-attachments/assets/414980d5-5d97-4856-9787-1b622c382edd" />
 <img width="1490" height="534" alt="image" src="https://github.com/user-attachments/assets/fd0542c5-7b49-47a6-b9e0-b62f8eb5eacd" />
 <img width="1328" height="537" alt="image" src="https://github.com/user-attachments/assets/82464e80-f113-4681-93e2-a3d0ad76fc60" />
+
+<img width="1276" height="765" alt="image" src="https://github.com/user-attachments/assets/5679be1a-b762-47ee-9ff0-678bbd5fe3c6" />
+
 
 ### 📈 분석 결과 요약
 
@@ -131,7 +134,7 @@
 
 ---
 
-## 📊 ② 분석 📆 월별 교통사고 치명도 및 계절적 특성
+## 📊 ② 분석 - 월별 교통사고 치명도 및 계절적 특성
 
 ### 🔍 분석 질문
 
@@ -148,7 +151,7 @@
 
 ---
 
-## 📊 ③ 분석 🌦 기상 상태별 사고 위험도 분석
+## 📊 ③ 분석 - 기상 상태별 사고 위험도 분석
 
 ### 🔍 분석 질문
 
@@ -166,7 +169,7 @@
 ## 기상 상태별 사고 비중 및 치명도
 
 ---
-## 📊 ④ 분석 🧍 연령대별·사고 원인별 특성 분석
+## 📊 ④ 분석 - 연령대별·사고 원인별 특성 분석
 
 ### 🔍 분석 질문
 
@@ -187,12 +190,12 @@
 ---
 ## 📊 분석 ⑤
 
-## 🗺 지역별·연령대별 사고 분포
+## 🗺 지역별 사고 분포
 
 ### 🔍 분석 질문
 
-> 사고는 특정 지역에 집중되어 있는가?
-img width="966" height="765" alt="image" src="https://github.com/user-attachments/assets/d9b8f59a-bebd-455c-bece-6780ac67efc6" />
+> 사고는 특정 지역, 유형에 집중되어 있는가?
+<img width="966" height="765" alt="image" src="https://github.com/user-attachments/assets/d9b8f59a-bebd-455c-bece-6780ac67efc6" />
 
 ### 📈 분석 결과 요약
 
@@ -202,12 +205,6 @@ img width="966" height="765" alt="image" src="https://github.com/user-attachment
 **맞춤형 관리 전략 필요성 확인**
 
 ---
-
-## 사고 유형별 / 위반 유형별 통계
-<img width="1498" height="585" alt="image" src="https://github.com/user-attachments/assets/8dbf016f-557a-4b74-a0f6-d4f33cfcac13" />
-
-
-
 
 
 ## 화물차 사고 다발 지역 지도 시각화
