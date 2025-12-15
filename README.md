@@ -134,8 +134,11 @@
 ### 🔍 분석 질문
 
 > 특정 월에 사고의 ‘치명도’가 더 높아지는가?
+> 
 <img width="1266" height="466" alt="image" src="https://github.com/user-attachments/assets/0a10b36f-116a-4ef5-8170-0014c685ebde" />
 <img width="1166" height="466" alt="image" src="https://github.com/user-attachments/assets/3dc2a883-abb7-4a59-804a-b89d93acae4f" />
+/>
+
 ### 📈 분석 결과 요약
 
 - 최근 5년 평균 기준, **8~10월의 사고 치명도가 가장 높음**
